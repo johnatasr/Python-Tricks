@@ -7,3 +7,4 @@ Thanks to :
 
 - Erik van Baaren
 - Real Python - William Murphy 
+- Otávio Miranda
