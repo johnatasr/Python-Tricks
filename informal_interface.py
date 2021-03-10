@@ -16,6 +16,7 @@ class PersonSuper:
     def age(self) -> int:
         pass
 
+
 class Person(metaclass=PersonMeta):
     pass
 
