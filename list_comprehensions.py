@@ -8,6 +8,8 @@ squares = [x**2 for x in range(10)]
 print(squares)
 # [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
 
+multiple_fors = [(x1, x2) for x1 in range(1, 4) for x2 in range(1, 4)]
+
 def cool_function(a):
     return (a + 5) / 2
     
